@@ -1,0 +1,10 @@
+package com.desafio.um;
+
+public class MeuDesafio {
+
+	public static void main(String[] args) {
+		System.out.println("Dale boy!!");
+
+	}
+
+}
